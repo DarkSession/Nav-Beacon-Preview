@@ -1,6 +1,0 @@
-# Everything here is public and static, and there is nothing behind an account
-# to keep out of an index: the application has no accounts (constitution I).
-User-agent: *
-Allow: /
-
-Sitemap: https://navbeacon.app/sitemap.xml
