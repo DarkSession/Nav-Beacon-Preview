@@ -1,1 +1,0 @@
-var o=`assets/ships`;function u(t){return`${o}/${t}/illustration.png`}function a(t,n){return`${o}/${encodeURIComponent(t)}/schematic-${n}.json`}function h(t,n){return`${o}/${encodeURIComponent(t)}/schematic-${n}.png`}export{h as n,u as r,a as t};
