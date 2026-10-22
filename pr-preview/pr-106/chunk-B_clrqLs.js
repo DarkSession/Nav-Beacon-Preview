@@ -1,1 +1,0 @@
-var a=[`armour`,`core`,`cargoHatch`];function e(t){return a.flatMap(o=>t.slots(o)).filter(o=>o.module===null).map(o=>o.key)}export{e as t};
